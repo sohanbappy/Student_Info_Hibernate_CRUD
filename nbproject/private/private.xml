@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/Student.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/updateStudent.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/WEB-INF/web.xml</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/META-INF/context.xml</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/updateStudent.jsp</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/deleteStudent.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/conf/MANIFEST.MF</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/addStudent.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/StudentDAO.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/src/java/com/hbm/loginCheck.java</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/logOut.jsp</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/registration.jsp</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/viewStudent.jsp</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/index.jsp</file>
+            <file>file:/E:/NetbeansProjects/HbmDemo/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
